@@ -9,7 +9,7 @@
 
 # Projetos
 
-* [Site Open Source para perfis do Discord](https://github.com/a1mleg/site-dc)
+* [Site Open Source para perfis do Discord](https://github.com/a1mleg/Discord-Website-Profile)
 * [Site Hello Kitty DC](https://webamor.xyz/)
 
 
